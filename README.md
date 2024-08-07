@@ -16,4 +16,8 @@ STACK
 
 **NOTE**
 
-Good = Not too bright, not too dark, not too saturated, not too desaturated, intense colors, good contrast, good readability, good visibility, good aesthetics.
+Good = Not too bright, not too dark, not too saturated, not too desaturated, intense colors, good contrast, good visibility.
+
+**FILES**
+
+Models, textures and decals are at the `resources` folder.
